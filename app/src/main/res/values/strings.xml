@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BiosensorReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Press START to begin the stream.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="graph">Graph</string>
+    <string name="data">Data:</string>
+    <string name="title_activity_graph">GraphActivity</string>
+    <string name="title_activity_global">Global</string>
+</resources>
