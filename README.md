@@ -1,5 +1,7 @@
 # Biosensor Reader
 Android Application for serial communication with an electrochemical biosensor for detecting mutated BRCA1 genes.
+This readme is an overview of the goals, components, and results of my project.
+Abstract: https://aaas.confex.com/aaas/2016/webprogram/Paper18283.html
 
 ## Summary
 Uses the UsbSerial library to establish UART communication with a biosensor for detecting BRCA1 mutations, which are associated with breast cancer.
