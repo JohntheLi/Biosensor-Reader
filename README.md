@@ -1,6 +1,7 @@
 # Biosensor Reader
 Android Application for serial communication with an electrochemical biosensor for detecting mutated BRCA1 genes.
 This readme is an overview of the goals, components, and results of my project.
+
 Abstract: https://aaas.confex.com/aaas/2016/webprogram/Paper18283.html
 
 ## Summary
